@@ -1,6 +1,6 @@
 ### Hi, I'm Eugene 👋
 
-I build AI automations and custom software for small businesses: tools that take routine work off people's hands. I've been making my own software products since 2006.
+I build AI automations and custom software that take routine work off people's hands. I've been making my own software products since 2006.
 
 **What I build**
 - AI chatbots and AI agents that answer customers and process documents and orders
